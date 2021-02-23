@@ -1,0 +1,5 @@
+<application>
+  <component name="PathMacrosImpl">
+    <ignoredMacro name="KOTLIN_BUNDLED" />
+  </component>
+</application>
